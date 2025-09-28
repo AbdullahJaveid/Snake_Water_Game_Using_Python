@@ -46,4 +46,5 @@ Each player (you and the computer) selects one of the following options:
 To get a local copy up and running, execute the following command in your terminal:
 
 ```bash
-git clone https://github.com/AbdullahJaveid/Snake_Water_Game_Using_Python.git
+git clone https://github.com/AbdullahJaveid/snake-water-gun-game.git
+```
